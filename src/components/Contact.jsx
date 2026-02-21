@@ -6,7 +6,7 @@ export default function Contact({ contact, toggleFavorito, eliminarContacto }) {
       border: "1px solid black",
       padding: "10px",
       margin: "5px",
-      backgroundColor: contact.favorito ? "#ffeb3b" : "white"
+      backgroundColor: contact.favorito ? "#F29CA3" : "white"
     }}>
       <h3>{contact.nombre} {contact.apellido}</h3>
       <p>Teléfono: {contact.telefono}</p>

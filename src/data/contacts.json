@@ -1,5 +1,5 @@
 [
-  { "id": 1, "nombre": "Ana", "apellido": "López", "telefono": "12345678", "favorito": false },
-  { "id": 2, "nombre": "Juan", "apellido": "Pérez", "telefono": "87654321", "favorito": true },
-  { "id": 3, "nombre": "María", "apellido": "Gómez", "telefono": "11223344", "favorito": false }
+  { "id": 1, "nombre": "Sara", "apellido": "López", "telefono": "72158235", "favorito": false },
+  { "id": 2, "nombre": "Rocio", "apellido": "Pérez", "telefono": "60153487", "favorito": true },
+  { "id": 3, "nombre": "Daniela", "apellido": "Castro", "telefono": "2273885", "favorito": false }
 ]
